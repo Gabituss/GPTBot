@@ -1,0 +1,7 @@
+aiogram==3.2.0
+python-dotenv
+langchain-llm7
+langchain-core
+tortoise-orm
+aiosqlite
+chatgpt-md-converter
